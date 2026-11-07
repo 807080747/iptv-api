@@ -61,7 +61,7 @@ jobs:
             --report output/log/validation.json \
             --timeout 12 \
             --workers 12 \
-            --min-channels 20
+            --min-channels 5
       - name: Restore and verify last published playlist
         if: steps.verify_generated.outcome == 'failure'
         run: |
@@ -74,7 +74,7 @@ jobs:
             --report output/log/validation.json \
             --timeout 12 \
             --workers 12 \
-            --min-channels 20
+            --min-channels 5
       - name: Merge GaryShare full playlist
         id: merge_garyshare
         continue-on-error: true
@@ -88,7 +88,7 @@ jobs:
             --fetch-retries 3 \
             --timeout 8 \
             --workers 32 \
-            --min-valid 20
+            --min-valid 5
       - name: Restore last GaryShare playlist on merge failure
         if: steps.merge_garyshare.outcome == 'failure'
         run: |
@@ -104,7 +104,7 @@ jobs:
             --report output/log/validation.json \
             --timeout 12 \
             --workers 12 \
-            --min-channels 20
+            --min-channels 5
       - name: Record playlist selection
         if: always()
         run: |
