@@ -38,7 +38,6 @@ TSN The Ocho CA,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c19
 
 🎬影视剧场,#genre#
 CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
-CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
 FilmRise Western,https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
 MGM Present Horror,https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
 OuterSphere by Lionsgate,https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8

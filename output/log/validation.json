@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-10 04:11:36",
-  "input_entries": 55,
-  "unique_urls": 55,
-  "valid_entries": 54,
-  "valid_channels": 54,
+  "generated_at": "2026-11-10 17:56:35",
+  "input_entries": 54,
+  "unique_urls": 54,
+  "valid_entries": 53,
+  "valid_channels": 53,
   "invalid_entries": [
     {
-      "channel": "AMC Thrillers",
-      "url": "https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8",
-      "error": "https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8: Invalid data found when processing input"
+      "channel": "CW Gold",
+      "url": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8",
+      "error": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8: Invalid data found when processing input"
     }
   ],
   "valid_streams": [
@@ -42,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-11",
@@ -58,14 +58,14 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
@@ -90,15 +90,15 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "东方卫视",
       "url": "http://74.91.26.218:82/live/dfwshd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 90
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -130,7 +130,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Reuters",
@@ -154,7 +154,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "DW English DE",
@@ -194,7 +194,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 85
+      "video_packets": 90
     },
     {
       "channel": "Billiard TV",
@@ -202,7 +202,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -261,20 +261,12 @@
       "video_packets": 90
     },
     {
-      "channel": "CW Gold",
-      "url": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 90
-    },
-    {
       "channel": "FilmRise Western",
       "url": "https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8",
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 5
     },
     {
       "channel": "MGM Present Horror",
@@ -370,7 +362,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Laughs CA",
@@ -378,7 +370,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Stingray DJAZZ",
@@ -386,7 +378,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "XITE 80s Flashback",
@@ -394,7 +386,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE Just Chill",
@@ -410,7 +402,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Spring Vibes",
@@ -418,7 +410,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 70
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",
@@ -426,7 +418,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "Chifeng News",
@@ -442,7 +434,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     }
   ]
 }
