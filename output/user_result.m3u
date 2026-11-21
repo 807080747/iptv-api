@@ -79,8 +79,6 @@ https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
 #EXTINF:-1 tvg-id="CA14000028T" tvg-name="CTV @ Home CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c6ea13d-726d-40b7-9153-97e9dec7af7f/CTVatHome_Logo_ForLightBackgrounds_1500x1000.png" group-title="🌍欧美频道",CTV @ Home CA
 https://d1ieuq3tbxyiyt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zv27yfxabsqcr/d20c04d4-1577-446c-b551-5bb288121a09/3.m3u8
-#EXTINF:-1 tvg-id="CA35000025N" tvg-name="CTV Gets Real CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee12f084-98af-4e37-bad0-7f03fb9fca6e/CTVGetsReal_Plex_Logo_ForDarkBackgrounds_1500x1000.png" group-title="🌍欧美频道",CTV Gets Real CA
-https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8
 #EXTINF:-1 tvg-id="CA1400005SO" tvg-name="CTV Laughs CA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1d593896-c59a-4b0a-bfe5-5dcba381e4b8/CTVLaughs_Logo_ForDarkBackgrounds_1500x1000.png" group-title="🌍欧美频道",CTV Laughs CA
 https://dvsxtm7eutazd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bf178m7nvq93/b1bc7153-ba35-44a8-8706-a64867f31214/3.m3u8
 #EXTINF:-1 tvg-id="USBD3500025GS" tvg-name="Stingray DJAZZ" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-djazz/logo_20231219_222248_70.png" group-title="🌍欧美频道",Stingray DJAZZ

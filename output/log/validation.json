@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-11-20 18:39:16",
+  "generated_at": "2026-11-21 03:16:43",
   "input_entries": 49,
   "unique_urls": 49,
-  "valid_entries": 49,
-  "valid_channels": 49,
-  "invalid_entries": [],
+  "valid_entries": 48,
+  "valid_channels": 48,
+  "invalid_entries": [
+    {
+      "channel": "CTV Gets Real CA",
+      "url": "https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8",
+      "error": "https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8: Invalid data found when processing input"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,7 +18,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-3",
@@ -28,7 +34,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -44,7 +50,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-12",
@@ -58,9 +64,9 @@
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 72
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "CCTV-17",
@@ -76,7 +82,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "浙江卫视",
@@ -92,7 +98,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "江苏卫视",
@@ -100,7 +106,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "深圳卫视",
@@ -124,7 +130,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Reuters",
@@ -132,7 +138,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Sky News International",
@@ -140,7 +146,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Euronews FR",
@@ -156,7 +162,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 153
+      "video_packets": 149
     },
     {
       "channel": "TRT World TR",
@@ -180,7 +186,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -188,7 +194,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 86
+      "video_packets": 90
     },
     {
       "channel": "Billiard TV",
@@ -196,7 +202,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -327,20 +333,12 @@
       "video_packets": 88
     },
     {
-      "channel": "CTV Gets Real CA",
-      "url": "https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 88
-    },
-    {
       "channel": "CTV Laughs CA",
       "url": "https://dvsxtm7eutazd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bf178m7nvq93/b1bc7153-ba35-44a8-8706-a64867f31214/3.m3u8",
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Stingray DJAZZ",
@@ -348,7 +346,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 85
     },
     {
       "channel": "XITE 80s Flashback",
@@ -364,7 +362,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 71
     },
     {
       "channel": "XITE Rock x Metal",
@@ -372,7 +370,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Spring Vibes",
@@ -380,7 +378,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",
@@ -388,7 +386,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 78
+      "video_packets": 75
     },
     {
       "channel": "Chifeng News",
